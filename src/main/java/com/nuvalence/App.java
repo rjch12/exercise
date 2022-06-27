@@ -3,7 +3,6 @@ package com.nuvalence;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.nuvalence.util.config;
 import com.nuvalence.util.rectangle;
 import com.nuvalence.util.util;
 import com.nuvalence.util.validation;
