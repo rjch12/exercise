@@ -26,10 +26,6 @@ public final class App {
      * @param args The arguments of the program.
      */
     public static void main(String[] args) {
-        config.set(10, 0, 0, 0, 10, 10, 0, 10, 1);
-        config.set(5, 0, -5, 0, 5, 5, -5, 5, 2);
-
-
         List<String> features = getFeatures(ut.getRectangle(1), ut.getRectangle(2));
 
         System.out.println("The features of the two triangles are:-");
